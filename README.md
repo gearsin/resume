@@ -52,7 +52,7 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 ---
 
 ### Sr. Game Programmer — Aurona Technologies Private Limited
-**Jan 2011 – Jun 2015 (4 years 4 months)**
+**Jul 2007 – Apr 2009 (4 years 4 months)**
 
 - Led a team of 5 developers shipping three titles across Nintendo DS, PS2, and PC.
 - Implemented FSM-based enemy AI and optimized group pathfinding for enemy characters moving in formation.
@@ -96,3 +96,4 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 
 **Bachelor of Engineering, Computer Science**
 Mumbai University — 2004
+
