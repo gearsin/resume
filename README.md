@@ -52,7 +52,7 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 ---
 
 ### Sr. Game Programmer — Aurona Technologies Private Limited
-**Jul 2007 – Apr 2009 (4 years 4 months)**
+**Jul 2007 – Apr 2009 (1 year 9 months)**
 
 - Led a team of 5 developers shipping three titles across Nintendo DS, PS2, and PC.
 - Implemented FSM-based enemy AI and optimized group pathfinding for enemy characters moving in formation.
@@ -80,7 +80,7 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 |---|---|
 | Engine | Unity, C#/.NET, C/C++, Unreal Engine 4 |
 | Networking | Photon Fusion, Nakama, SmartFoxServer 2X, TCP/UDP |
-| Framework | Addressables, UniTask, service framework architecture |
+| Framework | Addressables, UniTask, dependency injection framework |
 | CI/CD | GitHub Actions, Fastlane, Android AAB/APK, iOS, headless Linux server |
 | Native Platform | Android (JNI, thermal API), iOS (Objective-C, Xcode), NativeHeap |
 | Code Generation | Roslyn source generators, IL weaving |
@@ -96,4 +96,3 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 
 **Bachelor of Engineering, Computer Science**
 Mumbai University — 2004
-
