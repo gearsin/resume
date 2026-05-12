@@ -16,10 +16,10 @@ Principal Unity Engineer with 21+ years of experience across game development, e
 **Feb 2021 – Present**
 *Project BLACK — multiplayer looter-survival third-person shooter (Unity, Photon Fusion, Nakama, Android/iOS, Linux server)*
 
-- Architected Project BLACK's core Unity service framework: Root/Scene/UIScene/Context DI containers, app state orchestration, async lifecycle management, staged bundle-based config loading, and Roslyn-generated service registration and discovery from binding attributes.
+- Architected Project BLACK's core Unity service framework: Root/Scene/UIScene/Context DI containers, app state orchestration, async lifecycle management, staged bundle-based config loading, and a Roslyn source generator suite driving service registration/discovery from binding attributes, interface-to-enum generation, and allocation-free string conversion.
 - Owned Android, iOS, and headless Linux CI/CD across multi-environment targets, including AAB support, Play Console symbol upload, Fastlane certificate automation, resumable builds, runner maintenance, Slack diagnostics, and BuildCLI automation.
 - Built a headless-server asset stripping pipeline using IPreprocessBuildWithReport, label-based asset relocation and restore workflows, and Photon Fusion prefab-table predicates to keep client-only assets out of server builds.
-- Engineered platform and runtime infrastructure below Unity, including Android/iOS service bridges, event-driven thermal and battery telemetry, native heap crash diagnostics, Unity exception handling, and a Roslyn [StringEnum] generator to eliminate enum string boxing in hot paths.
+- Engineered platform and runtime infrastructure below Unity: Android/iOS service bridges, event-driven thermal and battery telemetry, native heap crash diagnostics, and Unity exception handling.
 - Designed a host-agnostic game server provider abstraction that enabled migration from Hathora to Agones without client changes; hardened headless Unity server builds and stabilized server-side scene baking.
 - Extended Photon Fusion beyond SDK defaults with patched change detection, a custom network runner, word-offset networked property callbacks, and an ordered startup pipeline.
 - Improved multiplayer resilience with region probing, connectivity health aggregation, transparent Nakama session refresh, and a CCU integration test framework for mobile network conditions.
